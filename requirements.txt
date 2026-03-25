@@ -1,0 +1,18 @@
+# Data Manipulation & Math
+numpy
+pandas
+
+# Image Processing & Geospatial
+rasterio
+scikit-image
+
+# Machine Learning & Deep Learning
+torch
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Custom/Project Specific (Ensure these are accessible in your environment)
+tacoreader

@@ -1,0 +1,7 @@
+*.tif
+*.pth
+/dataset
+*.pyc
+__pycache__/
+*.egg-info/
+.env
