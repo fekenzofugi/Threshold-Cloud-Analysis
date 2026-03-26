@@ -1,6 +1,6 @@
 # Assessing the Impact of Threshold on Cloud Masking Algorithms for Downstream Tasks
 
-This repository contains the code for the ML4RS 4th Edition paper titled "Assessing the Impact of Threshold on Cloud Masking Algorithms for Downstream Tasks". The paper investigates the influence of threshold selection in cloud masking algorithms on the performance of downstream tasks, in particular full-scene segmentation with SAM.
+This repository contains the code for the ML4RS 4th Edition paper titled "Assessing the Impact of Threshold on Cloud Masking Algorithms for Downstream Tasks". The paper investigates the influence of cloud masking threshold on the performance of downstream tasks, in particular full-scene segmentation with SAM.
 
 ## Repository Structure
 `ML4RS_RESULTS.ipynb` - contains the source code to reproduce the results presented in the paper. It includes data loading and evaluation steps.
